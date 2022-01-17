@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title></title>
+        <title>Ejercicio 2</title>
     </head>
     <body>
         <h3>Ejercicio 2</h3>
