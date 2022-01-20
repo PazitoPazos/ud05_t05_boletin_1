@@ -80,7 +80,6 @@
                     "<td>SAD</td>",
                     "</tr>"
                 );
-
                 $pripm = array(
                     "<tr>",
                     "<td></td>",
@@ -90,7 +89,6 @@
                     "<td></td>",
                     "</tr>"
                 );
-
                 $segpm = array(
                     "<tr>",
                     "<td></td>",
@@ -100,7 +98,6 @@
                     "<td></td>",
                     "</tr>"
                 );
-
                 $terpm = array(
                     "<tr>",
                     "<td></td>",
@@ -117,11 +114,11 @@
 
                 foreach ($segam as $hora) {
                     echo $hora;
-                };
+                    };
                 
                 foreach ($teram as $hora) {
                     echo $hora;
-                };
+                    };
 
                 echo "<tr>
                         <td colspan='5'>Recreo</td>
@@ -129,15 +126,15 @@
 
                 foreach ($cuaam as $hora) {
                     echo $hora;
-                };
+                    };
 
                 foreach ($quiam as $hora) {
                     echo $hora;
-                };
+                    };
                 
                 foreach ($sexam as $hora) {
                     echo $hora;
-                };
+                    };
                 
                 echo "<tr>
                         <td colspan='5'>Hora de comer</td>
@@ -145,15 +142,15 @@
 
                 foreach ($pripm as $hora) {
                     echo $hora;
-                };
+                    };
 
                 foreach ($segpm as $hora) {
                     echo $hora;
-                };
+                    };
                 
                 foreach ($terpm as $hora) {
                     echo $hora;
-                };
+                    };
             ?>
         </table>
     </body>
